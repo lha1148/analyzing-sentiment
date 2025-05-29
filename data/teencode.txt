@@ -1,0 +1,646 @@
+:v: hihi
+<3: yêu
+♥️: yêu
+❤: yêu
+a: anh
+ac: anh chị
+ace: anh chị em
+ad: quản lý
+ae: anh em
+ah: à
+ak: à
+amin: quản lý
+androir: android
+app: ứng dụng
+auto : tự động
+ây: vậy
+b nào: bạn nào
+bằg: bằng
+băng: bằng
+băp: bắp
+băt: bắt
+battery: pin
+bể: vỡ
+been: bên
+best: tốt nhất
+bgqafy : ngày
+bh: bảo hiểm
+bhx: bảo hành
+bi: bị
+big: lớn
+bik: biết
+bin: pin
+bit: biết
+bít: biết
+bn: bệnh nhân
+bông tróc: bong tróc
+k: không
+ok: được
+bro: anh em
+bt: biết
+bth: bình thường
+bthg: bình thường
+bua: bữa
+bùn: buồn
+buonc: buồn
+bx: bệnh xạ
+bye: tạm biệt
+c: chị
+cac: các
+cam: máy ảnh
+card: thẻ
+châu: khỏe
+chiệu: triệu
+chíp: chip
+chội: trội
+chs: chơi
+chửa: chữa
+chug : chung
+chup: chụp
+chuq: chung
+clip: đoạn phim
+cmt: bình luận
+co: có
+cở: cỡ
+cọc: cột
+cpu: chíp xử lý
+cty: công ty
+cua: của
+cũg: cũng
+cug : cũng
+cuh: cũng
+cùi: tệ
+củng: cũng
+cụt: cục
+cv: chuyên viên
+cx: cũng
+đ:  đồng
+dag: đang
+dăng: văng
+dấp: lỗi
+dất: rất
+đay: đấy
+đâỳ: đầy
+đc: được
+dè: rè
+dể: dễ
+delay: trễ
+dêm: đêm
+đén: đến
+deplay : chậm
+deu: đều
+diem: điểm
+dien: diện
+đien: điển
+điễn: điển
+dienmayxanh: điện máy xanh
+dín: dính
+dis: văng
+diss: văng
+dk: đăng ký
+dmx: điện máy xanh
+dô: vào
+dõ: rõ
+dỡ: dở
+đỗi: đổi
+download: tải
+drop: tụt
+dt: điều trị
+đt: điện thoại
+đth: điện thoại
+đthoai: điện thoại
+du: dù
+dùg: dùng
+dừg: dừng
+đứg: đứng
+dụg : dụng
+dung: dùng
+đụng: chạm
+đươc: được
+đuọc : được
+đưowjc: được
+dựt : giật
+dx: được
+đx: được
+đy: đi
+e: em
+ế: không bán được
+êm: tốt
+f: facebook
+fabook: facebook
+face: facebook
+fast: nhanh
+fb: facebook
+fim: phim
+fix: sửa
+flash sale: giảm giá
+fm: đài
+for what: vì sao
+fps: tốc độ khung hình
+full: đầy
+future: tương lai
+game: trò chơi
+gem: trò chơi
+geme: trò chơi
+gia tiên: giá tiền
+giât: giật
+giốg : giống
+giử: dữ
+giùm: dùm
+gmae: trò chơi
+gởi: gửi
+gold: vàng
+gơn: hơn
+good: tốt
+good jup: tốt
+gop: góp
+gửa: gửi
+gủng: cái
+h: giờ
+haiz: thở dài
+hẵn : hẳn
+hành: hành
+hazzz: haizz
+hc: học
+hcm: hồ chí minh
+hd: chất lượng cao
+hdh: hệ điều hành
+hđh: hệ điều hành
+headphone: tai nghe
+hên: may mắn
+hẻo: yếu
+hẹo: yếu
+het: hết
+hét: hết
+hic: khóc
+hieu: hiểu
+high-tech: công nghệ cao
+hít: sử dụng
+hiu: hiểu
+hỉu: hiểu
+hk: không
+hn: hà nội
+hnay: hôm nay
+hoài: nhiều lần
+hoi: hơi
+hới: hơi
+hời: tốt
+hoi han: hối hận
+hok: không
+hong: không
+hông: không
+hot: nổi bật
+hqua: hôm qua
+hs: học sinh
+hssv: học sinh sinh viên
+hut: hút
+huway : huawei
+huwei : huawei
+í: ý
+I like it: tôi thích nó
+ik: đi
+ip: iphone
+j: gì
+kàm: làm
+kb: không biết
+kg: không
+kh : khách hàng
+khach: khách hàng
+khát phục: khắc phục
+khj: khi
+khoá : khóa
+khóai : thích
+khoẻ: khỏe
+khoẽ: khỏe
+khôg: không
+khoi đong: khởi động
+khong: không
+khoong : không
+khuân: khuôn
+khủg: khủng
+kím: kiếm
+kipo: tiêu cực
+ko: không
+kt: kiểm tra
+ktra: kiểm tra
+la: là
+lác: lỗi
+lắc: lỗi
+lag: lỗi
+laii: lại
+lak: giật
+lan: lần
+lãng: giật
+lap: máy tính
+laptop: máy tính
+lay: này
+len toi: lên tới
+les: led
+lg: lượng
+lí: lý
+lien: liên
+like: thích
+liti: nhỏ
+live stream: phát sóng trực tiếp
+lm: làm
+ln: luôn
+loadd: tải
+lôi: lỗi
+lổi: lỗi
+LOL : trò chơi
+lởm: kém chất lượng
+lỏng lẽo: lỏng lẻo
+luc: lúc
+lun: luôn
+luong: lượng
+luot: lướt
+lưot : lượt
+m: mình
+mạ: trời
+mắc công: mất công
+macseger: messenger
+mag: màn
+main: chính
+mak: mà
+man: màn
+màng: màn
+màng hình: màn hình
+mao : mau
+mẩu: mẫu
+mầu : màu
+max: lớn nhất
+may: máy
+mèn: màn
+méo gì: làm gì
+mih: mình
+mìk: mình
+min: nhỏ nhât
+mìn: mình
+mjh: mình
+mjk: mình
+mjnh: minh
+mk: mình
+mn: mọi người
+mng : mọi người
+mo: đâu
+mò: tìm
+mobile: điện thoại
+mog: mong
+moi: mới
+mơi: mới
+ms: mới
+mún: muốn
+mước: mức
+mược: mượt
+muot: mượt
+mỷ: mỹ
+n: nói chuyện
+nãn: nản
+nayd: này
+nc: nói chuyện
+nch: nói chung
+nếo : nếu
+ng: người
+ngan: ngang
+nge: nghe
+nghiêm: nghiệm
+ngĩ: nghĩ
+ngốn: sử dụng
+nguon: nguồn
+nhah: nhanh
+nhan vien: nhân viên
+nhay: nhạy
+nhe: nhé
+nhèo: nhòe
+nhiet: nhiệt
+nhiểu: nhiều
+nhiu: nhiều
+nhìu: nhiều
+nhoè: nhòe
+như v: như vậy
+nhug: nhưng
+nhưg: nhưng
+nhữg: những
+nhung: nhưng
+nhuoc: nhược
+nhượt: nhược
+nock ao: hạ gục
+noi: nói
+nống: nóng
+not: lưu ý
+ns : nói
+nsx: ngày sản xuất
+nt: nội trú
+ntin: nhắn tin
+ntn: nội trang
+nũa: nữa
+nut : nút
+nv: nhân viên
+nz: như vậy
+ô xi: oxy
+ofice: văn phòng
+ôk: được
+oke: được
+okee: được
+oki: được
+okie: được
+onl: sử dụng
+ộp ẹp: không chắc chắn
+option: tùy chọn
+or: hoặc
+out: thoát
+oỳ: rồi
+pải: phải
+phảm: phẩm
+phẩn: phẩm
+phan van: phân vân
+phèo: vậy
+phut : phút
+pít: biết
+pro: chất lượng cao
+pùn: buồn
+pv: giới thiệu
+qá: quá
+qc: quảng cáo
+qtv: quản trị viên
+qua ve: qua vẻ
+quang trọng: quan trọng
+qus: quá
+r : rồi
+rat: rất
+rát: rất
+rắt: rất
+rata: rất
+rễ: dễ
+rep: trả lời
+research: nghiên cứu
+reset: cài đặt lại
+restart: khởi động lại
+review: đánh giá
+rì: gì
+rinh: mua
+rỏ: rõ
+rùi: rồi
+rùng: dùng
+s: sao
+sac: sạc
+sài: dùng
+sale: giảm giá
+sale off: giảm giá
+sâng: sáng
+sạt: sạc
+saving: tiết kiệm
+sd: sử dụng
+sdt: số điện thoại
+seal: mới
+search: tìm kiếm
+sefil: chụp ảnh
+selfie: chụp ảnh
+setting: cài đặt
+setup: cài đặt
+sexy: quyến rũ
+shiper: nhân viên giao hàng
+shop: cửa hàng
+skill: kỹ năng
+smooth: mượt
+so good: rất tốt
+sp: sản phẩm
+sphẩm: sản phẩm
+stars: sao
+sử: xử
+suất: xuất
+sưj: sự
+sước: xước
+super: siêu
+support: hỗ trợ
+sụt: tụt
+sv: sinh viên
+sx: sản xuất
+t: tôi
+T G D Đ: thế giới di động
+tằm : tầm
+tes: kiểm tra
+test: kiểm tra
+tet: tết
+teung: trung
+tg: thời gian
+tgdd: thế giới di động
+tgdđ: thế giới di động
+thag: tháng
+thág: tháng
+ship: giao
+Ship: giao
+bs: bác sĩ
+y tá: y tá
+pt: phẫu thuật
+ptt: phòng tiệt trùng
+mổ: phẫu thuật
+vk: vi khuẩn
+vkres: vi khuẩn kháng thuốc
+st: sốt
+nhiễm: nhiễm trùng
+cđ: chẩn đoán
+cđx: chẩn đoán xác định
+cdt: chẩn đoán tai biến
+xetnghiem: xét nghiệm
+xnt: xét nghiệm
+kq: kết quả
+kts: kiểm tra sức khỏe
+khoac: khoa khám
+vtt: vật tư
+tieuhoa: tiêu hóa
+tk: thời gian khám
+bc: bệnh cạnh
+mau: máu
+xquang: x-quang
+si: sinh lý
+rlc: rối loạn chuyển hóa
+bpt: bệnh phẩm
+da: da liễu
+bv: bệnh viện
+bvtw: bệnh viện trung ương
+pk: phòng khám
+th: thăm
+cn: chuyên ngành
+bsck: bác sĩ chuyên khoa
+bsyt: bác sĩ y tế
+tt: tư vấn
+vn: vaccine
+yhd: y học dự phòng
+bhyt: bảo hiểm y tế
+yte: y tế
+covid: covid-19
+tb: tuberculosis (lao)
+tm: tiểu mạch
+loi: lỗi
+ntd: nhân viên y tế
+clv: chuyên gia lâm sàng
+ltv: lĩnh vực y tế
+stt: số thứ tự
+ki: kiểm tra
+pcr: phản ứng chuỗi polymerase
+mri: chụp cộng hưởng từ
+ctscan: chụp cắt lớp vi tính
+xq: x-quang
+ech: siêu âm
+siêu âm: siêu âm
+electro: điện tim
+analys: phân tích
+vttt: vật tư tiêu hao
+dv: dịch vụ
+yhb: y học biện chứng
+kh: khám
+khoa: khoa
+kn: kỹ thuật viên
+skt: sức khỏe tâm thần
+tuy: tuyến
+giam: giảm
+tl: tổng lợi
+tlc: tổng lợi nhuận
+phat: phát hiện
+khenthuong: khen thưởng
+ttv: thực tập viên
+nkt: người khuyết tật
+svyt: sinh viên y tế
+bchn: bệnh nhân ngoại trú
+bvpk: bệnh viện phục hồi chức năng
+bvl: bệnh viện lao
+bsnc: bác sĩ nội khoa
+bsrt: bác sĩ răng hàm mặt
+bskh: bác sĩ chuyên khoa
+cls: cận lâm sàng
+ptm: phẫu thuật mở
+phvn: phẫu thuật vết thương
+tld: tuyến lâm sàng
+tim: tim mạch
+cao: cao huyết áp
+loang: loạn nhịp
+bvm: bệnh viện mắt
+vtyt: vật tư y tế
+icd: mã bệnh
+phieu: phiếu
+tu: tuyến
+benhvien: bệnh viện
+vt: vật lý trị liệu
+do: đo
+van: vấn đề
+ma: mạch
+tieu: tiểu đường
+nghien: nghiên cứu
+ptdc: phẫu thuật dạ dày
+uong: uống thuốc
+khoitao: khởi tạo
+bscn: bác sĩ chuyên môn
+vnctt: vaccine chất lượng cao
+apdung: áp dụng
+thuchien: thực hiện
+theo: theo dõi
+giadinh: gia đình
+tho: thở
+gan: gan mật
+phatbenh: phát bệnh
+bsdieutri: bác sĩ điều trị
+phieuxetnghiem: phiếu xét nghiệm
+kqb: kết quả bệnh
+phatmoi: phát mới
+qct: quy trình điều trị
+su: sự cố
+tochuc: tổ chức
+toanhoan: toàn hoàn
+tpt: tăng cường
+cct: cung cấp thuốc
+mkt: mạch vành
+xctm: xét cận tiểu mạch
+tlb: tuyến bệnh
+ptct: phẫu thuật cắt
+bvh: bệnh viện hạng
+benhvienyt: bệnh viện y tế
+tham: tham vấn
+trong: truyền
+thietbi: thiết bị
+benhphu: bệnh phụ
+tien: tiền sử
+biendinh: biến chứng
+dieutri: điều trị
+benhly: bệnh lý
+tw: trung ương
+cdk: chất lượng dịch vụ
+sk: sức khỏe
+kl: kết luận
+dtc: điều trị cộng đồng
+cc: cơ sở
+bcv: bệnh cạnh viện
+ck: chuyên khoa
+pttt: phẫu thuật thẩm mỹ
+tc: tình trạng
+yk: y khoa
+bm: bệnh mãn tính
+cskcb: cơ sở khám chữa bệnh
+pttc: phẫu thuật tạo hình
+bcch: bệnh viện chăm sóc hậu phẫu
+tds: tư vấn dịch vụ
+qlbv: quản lý bệnh viện
+yhte: y học thể thao
+phtm: phẫu thuật thẩm mỹ
+xetngh: xét nghiệm
+hht: hỗ trợ điều trị
+xph: xử phạt
+vht: vệ sinh tắm
+ksbt: khám sức khỏe bệnh tật
+ktlv: kỹ thuật lâm sàng
+kqdx: kết quả điều trị
+ptbv: phẫu thuật bệnh viện
+kcb: khám chữa bệnh
+cbv: cấp bệnh viện
+thkt: thăm khám thẩm mỹ
+yt: y tế
+bld: bệnh lây nhiễm
+bch: bệnh chí
+ct: chữa trị
+htx: hợp tác xã
+dtl: dễ tiếp cận lâm sàng
+httt: hỗ trợ tận tình
+ptttk: phẫu thuật thẩm mỹ kiên cố
+vhtd: vệ sinh dịch tễ
+bvct: bệnh viện công tư
+ctm: chữa trị miễn phí
+trv: tỷ lệ phục hồi
+ctb: chứng từ bệnh án
+thb: thuận lợi bệnh
+tkbv: tổ chức khám bệnh viện
+htv: hỗ trợ viện phí
+ql: quản lý
+ttsk: thực tế sức khỏe
+dvlc: dịch vụ lao động công nghiệp
+dcv: dược viên
+ntt: nội tuyến
+cs: cơ sở
+nhc: nội học chứng
+tcd: tương cận điều trị
+ctkh: chăm sóc khám
+lttv: lớp thực tập viên
+vbd: viêm bệnh di truyền
+bsdc: bác sĩ chuyên môn
+msd: mất sức động
+htttt: hỗ trợ tiếp cận điều trị
+cklm: chăm sóc lâm sàng
+vhd: vệ sinh điều trị
+khkt: kỹ thuật khám
+kcbbv: khám chữa bệnh bệnh viện
+tmn: tư vấn mạch não
+ddk: dịch vụ di dời
+kbb: khám bệnh ban đầu
+cdhb: chẩn đoán hậu bệnh
+nnv: nội nghiệp viên
+csgb: chăm sóc gia đình
+bbg: bác sĩ gia đình
+gq: giải quyết
+ba: báo cáo
+tx: tương tác
+bptk: bảo hiểm phẫu thuật kỹ thuật
+bcth: báo cáo thử nghiệm
+baqd: báo cáo quỹ định
+knbn: khám bệnh nội
+yvv: y viên viên
+bsnv: bác sĩ nội viên
+zìa: về
